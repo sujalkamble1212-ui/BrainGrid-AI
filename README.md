@@ -50,7 +50,7 @@ sudoku-web/
 
 ## 🌐 Live Demo
 
-👉 braingrid-ai.netlify.app
+👉 https://braingrid-ai.netlify.app/
 
 ---
 
