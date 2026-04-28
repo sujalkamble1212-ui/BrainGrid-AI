@@ -79,4 +79,12 @@ sudoku-web/
 
 ---
 
+## 📸 Preview
+<img width="998" height="764" alt="image" src="https://github.com/user-attachments/assets/3d7fb51b-de05-405a-95dd-b3e5cd2e4ce8" />
+
+
+
+
+---
+
 
